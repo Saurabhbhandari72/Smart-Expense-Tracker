@@ -1,0 +1,26 @@
+*{
+    background-color: rgb(167, 167, 215);
+}
+h1{color: rgb(13, 5, 134);
+    text-align: center;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+   
+
+}
+login{
+    text-align: center;
+}
+.login{
+    text-align: center;
+    font-size: 30px;
+}
+.h{
+    text-align: center;
+    font-size: 30px;
+}
+.b{
+    text-align: center;
+    font-size: 80px;
+}
