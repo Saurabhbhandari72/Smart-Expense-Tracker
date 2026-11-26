@@ -27,11 +27,17 @@ A web-based **Smart Expense Tracker** built using PHP and MySQL to manage person
 - Chart.js
 - XAMPP
 
-## 📸 Project Preview
 
-The project dashboard provides financial summaries, transaction history, and interactive charts.
+## 📸 Project Screenshots
 
-*Screenshots will be added soon.*
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Financial Analytics
+![Financial Analytics](screenshots/analytics.png)
+
+### Transactions
+![Transactions](screenshots/transactions.png)
 
 ## ⚙️ Installation and Setup
 
